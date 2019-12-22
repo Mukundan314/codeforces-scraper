@@ -17,3 +17,5 @@ pip install .
 ```
 $ codeforces-scraper
 ```
+
+![screenshot](screenshot.png)
